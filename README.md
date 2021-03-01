@@ -2,8 +2,8 @@
 
 
 https://www.codecogs.com/latex/eqneditor.php<br />
-(A) (7-0,8-0)=(7,8) <br />
-(B) \vec{}(7-4,8,3)<br />
+(A) (7-0,8-0)=(7,8) <br />\[(7-0,8-0)=(7,8)\] <br />
+(B) \vec{}(7-4,8,3)<br /> \[\vec{}(7-4,8,3)\]<br />
 (C)\left | \vec{a} \right | =\sqrt{3^{2}+5^{2}}=5.83<br />
 (D) \vec{res} (2+5,-2+2)=(7,0)<br />
 (E) \vec{a}+\vec{b}=(3+5,2+1)=(8,3)<br />
