@@ -1,11 +1,10 @@
 # Data-Science---Assignment-2
 
 
-https://www.codecogs.com/latex/eqneditor.php<br />
+https://www.codecogs.com/latex/eqneditor.php <br />
 
-<li><a href="https://latex.codecogs.com/gif.latex?\vec{}(7-4,8,3)"</a></li>
-(A) (7-0,8-0)=(7,8) <br />\[(7-0,8-0)=(7,8)\] <br />
-(B) \vec{}(7-4,8,3)<br /> https://latex.codecogs.com/gif.latex?\vec{}(7-4,8,3)<br />
+(A) (7-0,8-0)=(7,8) <br />
+(B) \vec{}(7-4,8,3) <br />
 (C)\left | \vec{a} \right | =\sqrt{3^{2}+5^{2}}=5.83<br />
 (D) \vec{res} (2+5,-2+2)=(7,0)<br />
 (E) \vec{a}+\vec{b}=(3+5,2+1)=(8,3)<br />
