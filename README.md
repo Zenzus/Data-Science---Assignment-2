@@ -1,6 +1,7 @@
 # VectorFun
 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Zenzus/Data-Science---Assignment-2/HEAD)
 
 a)
 
